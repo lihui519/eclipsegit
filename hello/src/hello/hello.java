@@ -5,7 +5,7 @@ public class hello {
 		int i=1/0;
 		System.out.println(i);
 		
-		//123
+		//123 678
 		
 	}
 
